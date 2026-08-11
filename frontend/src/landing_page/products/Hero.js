@@ -12,7 +12,7 @@ export const Hero = () => {
 
         <p className="mt-3">
           Check out our{" "}
-          <a href="#" style={{ textDecoration: "none" }}>
+          <a href="https://zerodha.com/investments" style={{ textDecoration: "none" }}>
             investment offerings →
           </a>
         </p>

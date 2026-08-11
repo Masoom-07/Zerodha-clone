@@ -1,6 +1,7 @@
 import React from "react";
-
+import { useNavigate} from 'react-router-dom'
 export const Universe = () => {
+  const navigate=useNavigate();
   return (
     <div className="container">
       <div
@@ -9,7 +10,7 @@ export const Universe = () => {
       >
         <h4>
           Want to know more about our technology stack? Check out the{" "}
-          <a href="#" style={{ textDecoration: "none" }}>
+          <a href="https://zerodha.tech/" style={{ textDecoration: "none" }}>
             Zerodha.tech{" "}
           </a>
           blog.
@@ -105,6 +106,7 @@ export const Universe = () => {
             padding: "12px 35px",
             fontSize: "18px",
           }}
+          onClick={()=>navigate('/signup')}
         >
           Sign up for free
         </button>

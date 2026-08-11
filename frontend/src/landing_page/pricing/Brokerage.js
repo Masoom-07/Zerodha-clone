@@ -10,7 +10,6 @@ export const Brokerage = () => {
           borderRadius: "6px",
         }}
       >
-        
         <table className="table table-bordered mb-0 align-middle">
           <thead>
             <tr className="text-center">
@@ -97,9 +96,13 @@ export const Brokerage = () => {
           </tbody>
         </table>
       </div>
+
       <p className="text-center text-muted mt-4 mb-5 fs-4">
-        <a href="#" style={{ textDecoration: "none", fontSize: "1.1em" }}>
-          Calculate your costs upfront{" "}
+        <a
+          href="https://zerodha.com/brokerage-calculator"
+          style={{ textDecoration: "none", fontSize: "1.1em" }}
+        >
+          Calculate your costs upfront
         </a>{" "}
         using our brokerage calculator
       </p>

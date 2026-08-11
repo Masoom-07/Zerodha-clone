@@ -16,22 +16,43 @@ const Hero = () => {
             </h2>
             <input
               placeholder="Eg. how do I activate F&O"
-              style={{ padding: "10px 50px", borderRadius: "15px", width: "100%", fontSize: "20px" }}
+              style={{
+                padding: "10px 50px",
+                borderRadius: "15px",
+                width: "100%",
+                fontSize: "20px",
+              }}
             />
             <br />
-            <a href="https://support.zerodha.com/category/account-opening">Track account openning</a>{" "}
-            <a href="https://support.zerodha.com/category/your-zerodha-account/account-modification-and-segment-addition">Track segment activation</a>{" "}
-            <a href="https://support.zerodha.com/category/trading-and-markets/margins-leverage-and-product-and-order-types">Intraday margins</a> <a href="https://support.zerodha.com/category/trading-and-markets/kite-web-and-mobile">Kite User manual</a>{" "}
+            <a href="https://support.zerodha.com/category/account-opening">
+              Track account openning
+            </a>{" "}
+            <a href="https://support.zerodha.com/category/your-zerodha-account/account-modification-and-segment-addition">
+              Track segment activation
+            </a>{" "}
+            <a href="https://support.zerodha.com/category/trading-and-markets/margins-leverage-and-product-and-order-types">
+              Intraday margins
+            </a>{" "}
+            <a href="https://support.zerodha.com/category/trading-and-markets/kite-web-and-mobile">
+              Kite User manual
+            </a>{" "}
           </div>
+
           <div className="col-6 p-5">
             <h2>Featured</h2>
+
             <ol>
               <li>
-                <a href="https://support.zerodha.com/category/trading-and-markets/corporate-actions">Current takeover and delisting -january 2024</a>
+                <a href="https://support.zerodha.com/category/trading-and-markets/corporate-actions">
+                  Current takeover and delisting -january 2024
+                </a>
               </li>
+
               <li>
                 {" "}
-                <a href="https://support.zerodha.com/category/trading-and-markets/margins-leverage-and-product-and-order-types">Latest Intraday Levarage -MIS & CO</a>
+                <a href="https://support.zerodha.com/category/trading-and-markets/margins-leverage-and-product-and-order-types">
+                  Latest Intraday Levarage -MIS & CO
+                </a>
               </li>
             </ol>
           </div>

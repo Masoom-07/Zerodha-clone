@@ -40,7 +40,7 @@ export default function Signup() {
     
    setTimeout(() => {
   window.location.href =
-    ` http://localhost:3001`;
+    ` https://zerodha-clone-seven-nu.vercel.app/`;
 }, 200);
   };
 

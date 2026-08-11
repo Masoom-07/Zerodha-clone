@@ -35,7 +35,7 @@ export default function Signup() {
     localStorage.setItem('token', data.token);
     localStorage.setItem('user', JSON.stringify(data.user));
 
-    window.location.href = 'http://localhost:3001';
+    window.location.href = 'https://zerodha-clone-seven-nu.vercel.app/';
   };
 
   return (

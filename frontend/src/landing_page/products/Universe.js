@@ -9,7 +9,7 @@ export const Universe = () => {
       >
         <h4>
           Want to know more about our technology stack? Check out the{" "}
-          <a href="" style={{ textDecoration: "none" }}>
+          <a href="#" style={{ textDecoration: "none" }}>
             Zerodha.tech{" "}
           </a>
           blog.

@@ -41,7 +41,7 @@ const Hero = () => {
             community initiatives to empower retail traders and investors.
           </p>
           <p>
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="#" style={{ textDecoration: "none" }}>
               Rainmatter
             </a>
             , our fintech fund and incubator, has invested in several fintech
@@ -82,15 +82,15 @@ const Hero = () => {
           <p>
             {" "}
             Connect on{" "}
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="#" style={{ textDecoration: "none" }}>
               Homepage
             </a>
             /
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="#" style={{ textDecoration: "none" }}>
               TrendingQna
             </a>
             /
-            <a href="" style={{ textDecoration: "none" }}>
+            <a href="#" style={{ textDecoration: "none" }}>
               Twitter
             </a>
           </p>

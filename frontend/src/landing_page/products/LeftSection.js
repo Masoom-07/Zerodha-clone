@@ -13,7 +13,7 @@ export const LeftSection = ({
     <div className="container mt-5 mb-5">
       <div className="row">
         <div className="col-8 ">
-          <img src={imageURL}></img>
+          <img src={imageURL} alt="left "></img>
         </div>
         <div className="col-4 p-3 ">
           <h1 className="mb-4 fs-3 text-muted">{ProductName}</h1>
@@ -34,10 +34,10 @@ export const LeftSection = ({
           </div>
           <div className=" p-3">
             <a href={googlePlay}>
-              <img src="media/images/googlePlayBadge.svg"></img>
+              <img src="media/images/googlePlayBadge.svg" alt="googleplay"></img>
             </a>
             <a href={appStore} style={{ marginLeft: "32px" }}>
-              <img src="media/images/appstoreBadge.svg"></img>
+              <img src="media/images/appstoreBadge.svg" alt="appstore"></img>
             </a>
           </div>
         </div>

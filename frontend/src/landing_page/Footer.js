@@ -36,56 +36,56 @@ const Footer = () => {
           <div className="col">
             <p style={headingStyle}>Account</p>
 
-            <a href="" style={linkStyle}>Open demat account</a><br />
-            <a href="" style={linkStyle}>Minor demat account</a><br />
-            <a href="" style={linkStyle}>NRI demat account</a><br />
-            <a href="" style={linkStyle}>HUF demat account</a><br />
-            <a href="" style={linkStyle}>Commodity</a><br />
-            <a href="" style={linkStyle}>Dematerialisation</a><br />
-            <a href="" style={linkStyle}>Fund transfer</a><br />
-            <a href="" style={linkStyle}>MTF</a>
+            <a href="#" style={linkStyle}>Open demat account</a><br />
+            <a href="#" style={linkStyle}>Minor demat account</a><br />
+            <a href="#" style={linkStyle}>NRI demat account</a><br />
+            <a href="#" style={linkStyle}>HUF demat account</a><br />
+            <a href="#" style={linkStyle}>Commodity</a><br />
+            <a href="#" style={linkStyle}>Dematerialisation</a><br />
+            <a href="#" style={linkStyle}>Fund transfer</a><br />
+            <a href="#" style={linkStyle}>MTF</a>
           </div>
 
           
           <div className="col">
             <p style={headingStyle}>Support</p>
 
-            <a href="" style={linkStyle}>Contact us</a><br />
-            <a href="" style={linkStyle}>Support portal</a><br />
-            <a href="" style={linkStyle}>How to file a complaint?</a><br />
-            <a href="" style={linkStyle}>Status of your complaints</a><br />
-            <a href="" style={linkStyle}>Bulletin</a><br />
-            <a href="" style={linkStyle}>Circular</a><br />
-            <a href="" style={linkStyle}>Z-Connect blog</a><br />
-            <a href="" style={linkStyle}>Downloads</a>
+            <a href="#" style={linkStyle}>Contact us</a><br />
+            <a href="#" style={linkStyle}>Support portal</a><br />
+            <a href="#" style={linkStyle}>How to file a complaint?</a><br />
+            <a href="#" style={linkStyle}>Status of your complaints</a><br />
+            <a href="#" style={linkStyle}>Bulletin</a><br />
+            <a href="#" style={linkStyle}>Circular</a><br />
+            <a href="#" style={linkStyle}>Z-Connect blog</a><br />
+            <a href="#" style={linkStyle}>Downloads</a>
           </div>
 
          
           <div className="col">
             <p style={headingStyle}>Company</p>
 
-            <a href="" style={linkStyle}>About</a><br />
-            <a href="" style={linkStyle}>Philosophy</a><br />
-            <a href="" style={linkStyle}>Press & media</a><br />
-            <a href="" style={linkStyle}>Careers</a><br />
-            <a href="" style={linkStyle}>Zerodha Cares (CSR)</a><br />
-            <a href="" style={linkStyle}>Zerodha.tech</a><br />
-            <a href="" style={linkStyle}>Open source</a><br />
-            <a href="" style={linkStyle}>Referral program</a>
+            <a href="#" style={linkStyle}>About</a><br />
+            <a href="#" style={linkStyle}>Philosophy</a><br />
+            <a href="#" style={linkStyle}>Press & media</a><br />
+            <a href="#" style={linkStyle}>Careers</a><br />
+            <a href="#" style={linkStyle}>Zerodha Cares (CSR)</a><br />
+            <a href="#" style={linkStyle}>Zerodha.tech</a><br />
+            <a href="#" style={linkStyle}>Open source</a><br />
+            <a href="#" style={linkStyle}>Referral program</a>
           </div>
 
          
           <div className="col">
             <p style={headingStyle}>Quick links</p>
 
-            <a href="" style={linkStyle}>Upcoming IPOs</a><br />
-            <a href="" style={linkStyle}>Brokerage charges</a><br />
-            <a href="" style={linkStyle}>Market holidays</a><br />
-            <a href="" style={linkStyle}>Economic calendar</a><br />
-            <a href="" style={linkStyle}>Calculators</a><br />
-            <a href="" style={linkStyle}>Markets</a><br />
-            <a href="" style={linkStyle}>Sectors</a><br />
-            <a href="" style={linkStyle}>Gift Nifty</a>
+            <a href="#" style={linkStyle}>Upcoming IPOs</a><br />
+            <a href="#" style={linkStyle}>Brokerage charges</a><br />
+            <a href="#" style={linkStyle}>Market holidays</a><br />
+            <a href="#" style={linkStyle}>Economic calendar</a><br />
+            <a href="#" style={linkStyle}>Calculators</a><br />
+            <a href="#" style={linkStyle}>Markets</a><br />
+            <a href="#" style={linkStyle}>Sectors</a><br />
+            <a href="#" style={linkStyle}>Gift Nifty</a>
           </div>
         </div>
 

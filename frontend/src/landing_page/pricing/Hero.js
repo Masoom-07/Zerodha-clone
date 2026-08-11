@@ -12,7 +12,7 @@ export const Hero = () => {
       </div>
       <div className=" row">
         <div className="col-4 p-5">
-          <img src="media/images/pricing0.svg"></img>
+          <img src="media/images/pricing0.svg" alt="pricing"></img>
           <h1 className="fs-2" text-muted>
             Free equity delivery
           </h1>
@@ -22,7 +22,7 @@ export const Hero = () => {
           </p>
         </div>
         <div className="col-4 p-5">
-          <img src="media/images/intradayTrades.svg"></img>
+          <img src="media/images/intradayTrades.svg" alt="pricing20"></img>
           <h1 className="fs-2  text-muted">Intraday and F&O trades</h1>
           <p className="text-muted" style={{ fontSize: "1.2em" }}>
             Flat ₹ 20 or 0.03% (whichever is lower) per executed order on
@@ -31,7 +31,7 @@ export const Hero = () => {
           </p>
         </div>
         <div className="col-4 p-5">
-          <img src="media/images/pricing0.svg"></img>
+          <img src="media/images/pricing0.svg" alt="pricing0"></img>
           <h1 className="fs-2 text-muted">Free direct MF</h1>
           <p className="text-muted" style={{ fontSize: "1.2em" }}>
             All direct mutual fund investments are absolutely free — ₹ 0

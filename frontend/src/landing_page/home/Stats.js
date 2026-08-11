@@ -40,11 +40,11 @@ const Stats = () => {
             style={{ width: "90%" }}
           />
           <div className="text-center">
-            <a href="#" className="mx-5 " style={{textDecoration:"none"}}>
+            <a href="https://zerodha.com/products" className="mx-5 " style={{textDecoration:"none"}}>
               Explore our Products  
               <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>
-            <a href="#" className="mx-5 " style={{textDecoration:"none"}} >
+            <a href="https://kite-demo.zerodha.com/dashboard" className="mx-5 " style={{textDecoration:"none"}} >
               Try kite demo
               <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>
